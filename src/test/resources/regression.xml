@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="User test automation">
+    <test name="UI Regression">
+        <classes>
+            <class name="Age.AgeMenTest"/>
+            <class name="Age.AgeTests"/>
+        </classes>
+    </test>
+</suite>
